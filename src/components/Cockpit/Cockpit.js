@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './Cockpit.module.css';
-import Aux from '../../hoc/Aux';
+import Aux from '../../hoc/Auxiliar';
 
 const cockpit = (props) =>{
     const assignedClasses =[];

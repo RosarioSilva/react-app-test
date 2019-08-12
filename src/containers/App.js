@@ -5,7 +5,7 @@ import classes from './App.module.css';
 //import ErrorBoundary from '../components/ErrorBoundary/ErrorBoundary';
 import Persons from '../components/Persons/Persons';
 import Cockpit from '../components/Cockpit/Cockpit';
-import Aux from '../hoc/Aux';
+import Aux from '../hoc/Auxiliar';
 import withClass from '../hoc/withClass';
 
 export const AuthContext = React.createContext(false);

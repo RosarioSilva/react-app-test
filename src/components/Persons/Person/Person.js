@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import classes from './Person.module.css';
 //import { classExpression } from '@babel/types';
 import withClass from '../../../hoc/withClass';
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Auxiliar';
 //import Radium from 'radium';
 import PropTypes from 'prop-types';
 import {AuthContext} from '../../../containers/App';
